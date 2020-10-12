@@ -1,0 +1,83 @@
+*{
+    padding:0;margin:0;outline:none
+}
+textarea:nth-child('1'){
+    background-color: gray;
+}
+textarea{
+    background-color: #2c2b2b;
+    font-size: 1rem;
+    height:10.1rem;
+    padding:1rem 1rem;
+    resize:vertical;
+    border-top: none;text-decoration: none;
+    color:whitesmoke;font-weight: bold;
+    font-family: monospace;
+}
+#header{
+    width:100%;height: 3rem;background-color:rgb(30, 30, 34);color:whitesmoke
+
+}
+#logo{
+    line-height: 2rem;padding: 0.5rem ;text-transform: uppercase;float: left;
+}
+#logo img{
+    height: 2rem;width: 2rem;float: left;margin-right:0.5rem
+}
+.toggleButton {
+        
+    float:left;    
+    padding:0.2rem 0.8rem;
+    font-size:1rem;margin-top:1.2rem;
+    margin-left: 0.1rem;
+    border-top-left-radius: 0.3rem;
+    border-top-right-radius: 0.3rem;
+    background-color:#3d3d3d;
+    
+}
+#buttonContainer{
+    margin-top:5rem;    
+    margin:0 auto;margin-left:32rem
+    
+}
+#output img{
+    width:1.0rem;height: 1.0rem;
+}
+#css img{
+    width: 1rem;height:1rem
+}
+#html img{
+    width: 1rem;height:1rem
+}
+#javascript img{
+    width: 1rem;height:1rem
+}
+
+.active {
+    
+    background-color: #2c2b2b;
+    
+}
+
+.highlightedButton {
+    
+    background-color: grey;
+    
+}
+.panel {
+    
+    float:left;
+    border-left: none;
+}
+
+iframe {
+    
+    border:none;width:40.5rem;height:37.5rem;   
+    
+}
+
+.hidden {
+    
+    display: none;
+    
+}
