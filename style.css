@@ -6,7 +6,7 @@ textarea{
     font-size: 1rem;
     height:30.5%;width: 30%;    
     padding:1rem 1rem;
-    resize:none;
+    resize:vertical;
     border-top: none;text-decoration: none;
     color:whitesmoke;font-weight: bold;
     font-family: monospace;
